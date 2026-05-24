@@ -22,7 +22,7 @@
 ```
  3. Execute the script using the interpreter:
    ```bash
-   ./flux main.flx
+   ./LYRA main.flx
    
    ```
 ### Command Syntax
