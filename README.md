@@ -12,9 +12,9 @@
 * **Safety:** Built-in protection against circular dependencies during fil imports.
 
 ### Usage
-1. Create a script file with the `.flx` extension (e.g., `main.flx`).
+1. Create a script file with the `.flx` extension (e.g., `main.LYRA`).
 2. Write your code using FLUX syntax:
-   ```flux
+   ```LYRA
    // Example code
    ~math 10 + 20 -> result
    log result
