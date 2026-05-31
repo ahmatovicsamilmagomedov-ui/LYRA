@@ -106,7 +106,7 @@ public:
 
 int main(int argc, char* argv[]) {
     if (argc < 2) {
-        std::cout << "FLUX VM v3.1 | Запуск: ./flux <main.flux>" << std::endl;
+        std::cout << "FLUX VM v3.1 | Запуск: ./Octa <main.Octa>" << std::endl;
         return 1;
     }
     try {
