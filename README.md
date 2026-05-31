@@ -1,8 +1,8 @@
 
 ```markdown
-# LYRA Virtual Machine
+# Octa Virtual Machine
 
-**LYRA** is a high-performance virtual machine (VM) featuring bytecode compilation, designed for efficient script execution and modular extensibility.
+**Octa** is a high-performance virtual machine (VM) featuring bytecode compilation, designed for efficient script execution and modular extensibility.
 
 ### Key Features
 * **Bytecode Compilation:** Code is parsed once, ensuring maximum execution speed.
@@ -12,9 +12,9 @@
 * **Safety:** Built-in protection against circular dependencies during fil imports.
 
 ### Usage
-1. Create a script file with the `.flx` extension (e.g., `main.LYRA`).
-2. Write your code using FLUX syntax:
-   ```LYRA
+1. Create a script file with the `.flx` extension (e.g., `main.Octa`).
+2. Write your code using Octa syntax:
+   ```Octa
    // Example code
    ~math 10 + 20 -> result
    log result
@@ -22,7 +22,7 @@
 ```
  3. Execute the script using the interpreter:
    ```bash
-   ./LYRA main.flx
+   ./Octa main.flx
    
    ```
 ### Command Syntax
